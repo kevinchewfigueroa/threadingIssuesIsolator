@@ -1,5 +1,5 @@
 # threadingIssues_Isolator
-Tool meant to identify issues in Vocareum's Multithreading System
+Tool meant to identify issues in USC-CSCI561 Vocareum's Multithreading Grading System
 
 The python file is a dummy script meant to resemble any normal student's hw submission.  
 
